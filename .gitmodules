@@ -1,0 +1,3 @@
+[submodule "cmake/Modules/cmake-supporter"]
+	path = cmake/Modules/cmake-supporter
+	url = git://github.com/vgonisanz/cmake-supporter
